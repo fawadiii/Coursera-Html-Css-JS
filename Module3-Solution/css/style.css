@@ -18,3 +18,12 @@ body{
 	background: rgba(0, 0, 0, 0.247);
 	margin-top: 50px;
 }
+@media (max-width: 578px) {
+    .navbar{
+        padding: 5px 20px;
+    }
+    .row{
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
